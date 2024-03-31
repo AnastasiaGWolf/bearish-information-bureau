@@ -10,7 +10,7 @@
 Вопросы по темам:
 * [Router DOM](/React/Router_DOM.md)
 * [Redux](/React/Redux.md)
-* [Redux Thunk](/React/Redux_Thunk.md)
+* [Redux Toolkit](/React/ReduxToolkit.md)
 * [TypeScript](/TypeScript/TypeScript.Questions.md)
 * [Примеры TypeScript](/TypeScript/TypeScript.Examples.md)
 
